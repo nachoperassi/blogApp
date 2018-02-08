@@ -1,0 +1,42 @@
+form a {
+	margin-left: 5px;
+}
+
+.card {
+	margin-top: 20px;
+}
+
+.card-body {
+	margin-top: 20px;
+}
+
+.card-body > .btn {
+	margin-bottom: 20px;
+}
+
+.card-body > .categories {
+	font-style: italic;
+}
+
+.posts-index .btn-add {
+	margin-top: 20px;
+}
+
+.form-group {
+	max-width: 500px;
+}
+
+.new-post {
+
+}
+
+.form-container {
+	margin-top: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.form-container form {
+	flex-basis: 50%;
+}
